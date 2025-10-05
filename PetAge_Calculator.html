@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pet Age Calculator</title>
+  <link rel="stylesheet" href="PetAge_Calculator.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🐾 Pet Age Calculator 🐶🐱</h1>
+
+    <label for="petType">Choose a pet:</label>
+    <select id="petType">
+      <option value="dog">Dog 🐶</option>
+      <option value="cat">Cat 🐱</option>
+    </select>
+
+    <label for="petAge">Select pet's age (in human years):</label>
+    <input type="number" id="petAge" />
+
+    <button id="calculateButton">Calculate</button>
+
+    <div id="result"></div>
+  </div>
+
+  <script src="PetAge_Calculator.js"></script>
+</body>
+</html>
