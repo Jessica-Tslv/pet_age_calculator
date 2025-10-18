@@ -9,6 +9,8 @@
 **Pet Age Calculator** is a simple and interactive web app that allows users to calculate their pet’s age in human years.  
 Just enter your pet’s age and species — and the app instantly shows you the human-equivalent age with a clean, user-friendly interface.
 
+<img width="761" height="431" alt="Screenshot 2025-10-18 at 13 50 47" src="https://github.com/user-attachments/assets/23473bb9-610b-4437-a49b-7f960a592856" />
+
 ---
 
 ## ✨ Features
